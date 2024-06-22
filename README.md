@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @JustEnderrs
 - 👀 I’m interested in Discord Bot Programming
 - 🌱 I’m currently learning Java and C++
-- 💞️ I’m looking to collaborate on idk
-- 📫 Discord : ender.mann
+- 📫 Discord : antxchris
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I am an minecraft pro 😄
 
